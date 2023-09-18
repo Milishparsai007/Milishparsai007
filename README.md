@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I’m Milish Parsai</h1>
 
+<img align="right" alt="image" width="40%" src=images/programmer_v_02.jpg></img>
+
 - 🏫 I'm currently pursuing B.Tech in Computer Science and Engineering from Bharati Vidyapeeth Pune.	
 - 👀 I’m interested in Android development & datastructures in Java.
 - 🌱 I’m currently learning Core Java.
