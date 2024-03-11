@@ -6,7 +6,7 @@
 - 👀 I’m interested in Android development & datastructures in Java.
 - 🌱 I’m currently learning Core Java.
 - 💞️ I’m looking forward to collaborate on a project (Android App Development) with a team.
-- 📫 You can shoot me and email at milishparsai2002@gmail.com
+- 📫 You can shoot me an email at milishparsai2002@gmail.com
 
 ## 🤝Connect with me here
 
@@ -23,7 +23,7 @@
 
 
 ## Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
