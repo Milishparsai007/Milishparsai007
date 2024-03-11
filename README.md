@@ -3,9 +3,9 @@
 <img align="right" alt="image" width="40%" src=images/programmer_v_02.jpg></img>
 
 - 🏫 I'm currently pursuing B.Tech in Computer Science and Engineering from Bharati Vidyapeeth Pune.	
-- 👀 I’m interested in Android development & datastructures in Java.
-- 🌱 I’m currently learning Core Java.
-- 💞️ I’m looking forward to collaborate on a project (Android App Development) with a team.
+- 👀 I’m interested in Android development, backend using SpringBoot & datastructures in Java.
+- 🌱 I’m currently learning Core Java along with SpringBoot.
+- 💞️ I’m looking forward to collaborate on a project (Full stack Android App Development) with a team.
 - 📫 You can shoot me an email at milishparsai2002@gmail.com
 
 ## 🤝Connect with me here
